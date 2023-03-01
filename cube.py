@@ -1,4 +1,6 @@
 import pygame as pg
+import numpy as np
+
 
 class RubiksCube:
     def __init__(self, render) :
